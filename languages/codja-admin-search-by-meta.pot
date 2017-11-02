@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: COJDA Admin Search By Meta\n"
+"POT-Creation-Date: 2017-11-02 15:39+0200\n"
+"PO-Revision-Date: 2017-11-02 15:39+0200\n"
+"Last-Translator: kaliyan <nikolay1519@gmail.com>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: codja-admin-search-by-meta.php:272 codja-admin-search-by-meta.php:273
+#: templates/settings_page.php:2
+msgid "Admin Search By Meta"
+msgstr ""
+
+#: templates/search_box.php:2
+msgid "Search by meta..."
+msgstr ""
+
+#: templates/search_box.php:3
+msgid "Search"
+msgstr ""
+
+#: templates/settings_page.php:8
+msgid "Connect search for"
+msgstr ""
+
+#: templates/settings_page.php:25 templates/settings_page.php:46
+msgid "Save settings"
+msgstr ""
