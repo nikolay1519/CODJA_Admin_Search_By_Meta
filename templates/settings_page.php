@@ -1,4 +1,4 @@
-<div class="wrap">
+<div id="cjCfi_page" class="wrap">
 	<h1><?php _e( 'Admin Search By Meta', 'cj-asm' ); ?></h1>
 
 	<form method="POST" action="">
